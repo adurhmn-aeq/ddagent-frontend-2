@@ -1,0 +1,70 @@
+[33m7ce519f[m[33m ([m[1;36mHEAD -> [m[1;32mfib3[m[33m, [m[1;31morigin/fib3[m[33m)[m HEAD@{0}: commit: extend silence detection to 1 sec
+[33maa4e769[m HEAD@{1}: commit: fix: append new agent response to array of prev. responses
+[33m2e12f39[m HEAD@{2}: commit: refactor: return interview component back to slug.tsx page
+[33m6544900[m HEAD@{3}: commit: fix: flip isLoadingResponse flag when agent is speaking
+[33m366c8c8[m HEAD@{4}: commit: begin recording only when sockets are ready
+[33m782c4aa[m HEAD@{5}: commit: add filler words for awaiting agent response
+[33mf0f4ca9[m HEAD@{6}: commit: make use of javascript audio object for long sequence of audio chunks
+[33m2a0fb05[m HEAD@{7}: commit: chunk agent response into sentences
+[33mde3af2c[m HEAD@{8}: commit: add loading state for when agent is loading response
+[33mb3af4b9[m HEAD@{9}: commit: display audio transcription in real-time
+[33m10f0464[m HEAD@{10}: commit: add silence detection to audio recording routine
+[33mf5bbd10[m HEAD@{11}: commit (merge): merge with main
+[33m80fb299[m HEAD@{12}: checkout: moving from main to fib3
+[33m45b53b3[m[33m ([m[1;32mmain[m[33m)[m HEAD@{13}: commit: add assemblyAI socket streaming
+[33m6fffdb4[m HEAD@{14}: commit: change server audio route
+[33me04c9f7[m HEAD@{15}: commit (merge): merge from main
+[33m2041e3b[m HEAD@{16}: checkout: moving from fib3 to main
+[33m80fb299[m HEAD@{17}: commit: add params to agent route request
+[33m0e025b0[m HEAD@{18}: commit: add UI update for adding file data sources
+[33m08fac4a[m HEAD@{19}: commit: remove 'tap the mic' notice text
+[33m539e30a[m HEAD@{20}: commit: remove 'tap the mic' notice text
+[33m5748a9f[m HEAD@{21}: commit: stop recording and route to home on roleplay termination
+[33maff8574[m HEAD@{22}: commit: remove press-to-speak to include silence detection for hands-off feature
+[33m3358c18[m HEAD@{23}: commit: merge updates from staging
+[33mf409ea7[m[33m ([m[1;32mstaging[m[33m)[m HEAD@{24}: checkout: moving from staging to fib3
+[33mf409ea7[m[33m ([m[1;32mstaging[m[33m)[m HEAD@{25}: pull: Fast-forward
+[33m49a722b[m HEAD@{26}: pull: Fast-forward
+[33m818ba97[m HEAD@{27}: checkout: moving from fib2 to staging
+[33m5b8f3ad[m[33m ([m[1;31morigin/fib2[m[33m)[m HEAD@{28}: commit: fix: make silence detection longer
+[33m4645f5c[m HEAD@{29}: pull origin main: Merge made by the 'ort' strategy.
+[33mfcd6e38[m HEAD@{30}: commit: peg changes for fixes to main
+[33m5c63eb7[m HEAD@{31}: commit: merge changes from staging
+[33mf001a52[m HEAD@{32}: commit (merge): merge changes from staging
+[33m2370ad6[m HEAD@{33}: commit: refactor: make previousMessage into a useRef to boost performance
+[33m29a277a[m HEAD@{34}: commit: feat: send recording on short silence
+[33m6def4f5[m HEAD@{35}: commit: remove hark library reference to allow for full audio read without pause
+[33m8926f43[m HEAD@{36}: commit: fix: make request on when audio buffer is fully flushed
+[33m8c10c0c[m HEAD@{37}: commit (merge): merge changes from main
+[33m503f4a2[m HEAD@{38}: commit: fix: send initiationData to server before step 2
+[33m362a297[m HEAD@{39}: commit: merge from main branch
+[33m74bc53c[m HEAD@{40}: reset: moving to HEAD~1
+[33ma20ab10[m HEAD@{41}: checkout: moving from main to fib2
+[33m2041e3b[m HEAD@{42}: commit: upate padckage.json
+[33m8ed05ce[m HEAD@{43}: pull: Fast-forward
+[33mf3f3eed[m HEAD@{44}: checkout: moving from fib2 to main
+[33ma20ab10[m HEAD@{45}: commit: nothing actually
+[33m74bc53c[m HEAD@{46}: commit (merge): nothing actually
+[33m2f74b54[m HEAD@{47}: commit: save variable in state
+[33m324602f[m HEAD@{48}: commit (merge): merge context updates for variable loading to agent context
+[33me865164[m HEAD@{49}: commit: add support for initiation message and variable loading
+[33m3b36d31[m HEAD@{50}: commit: fix: add field for initiation message
+[33mb6089bb[m HEAD@{51}: commit: fix: infinite request for user audio questions
+[33mb1f7558[m HEAD@{52}: pull origin main: Fast-forward
+[33m3650b65[m HEAD@{53}: pull origin main: Fast-forward
+[33mb6add09[m HEAD@{54}: commit: remove enviroment variables from next.config.js into .env
+[33m7f4a8c3[m HEAD@{55}: checkout: moving from farouk-dev to fib2
+[33m6d1b573[m[33m ([m[1;31morigin/farouk-dev[m[33m)[m HEAD@{56}: commit: fix: change reference to slug in the interview useEffect hook
+[33m95dc2a3[m HEAD@{57}: commit: set api calls to new endpoints
+[33m5f86e76[m HEAD@{58}: commit: remove ui when iterivew ends
+[33m90c7715[m HEAD@{59}: commit: add pulsation effect and prompt when user is speaking
+[33mb778852[m HEAD@{60}: commit: add interview ending action to chat page
+[33m1e56452[m HEAD@{61}: commit: list all interview sessions
+[33mf5fc36e[m HEAD@{62}: commit: add transcript page for interview sessions
+[33m54cf2de[m HEAD@{63}: commit: redesign chat interface
+[33m20acd81[m HEAD@{64}: commit: add interviews sidebar item
+[33mfc9974c[m HEAD@{65}: commit: add sessions side bar item
+[33m9583371[m HEAD@{66}: commit: fix previous conversations persistence in state
+[33made86d5[m HEAD@{67}: commit: add chakra ui for dev frontend
+[33mf3f3eed[m HEAD@{68}: checkout: moving from main to farouk-dev
+[33mf3f3eed[m HEAD@{69}: clone: from https://github.com/bilic-io/DDAgent.git
